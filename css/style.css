@@ -1,0 +1,21 @@
+html {/* Created by: Quinn Moher
+  * Created on: Feb 2024
+  * This CSS file defines the style for index.html
+  * -Unit1-04-HTML-CSS
+  */
+
+  body {
+    background-color: mediumspringgreen;
+  }
+
+  h1 {
+    background-color: rgb(255, 0, 0);
+    color: hsl(0, 0%, 3%);
+    padding: 40px;
+    text-align: center;
+  }
+
+  p {
+    background-color: #ff00ff;
+  }
+}
